@@ -1,0 +1,40 @@
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Data\bin\Debug\NFine.Data.dll
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Data\bin\Debug\NFine.Data.pdb
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Data\bin\Debug\EntityFramework.dll
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Data\bin\Debug\NFine.Code.dll
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Data\bin\Debug\Newtonsoft.Json.dll
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Data\bin\Debug\log4net.dll
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Data\bin\Debug\NPOI.dll
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Data\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Data\bin\Debug\NFine.Code.pdb
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Data\bin\Debug\EntityFramework.xml
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Data\bin\Debug\Newtonsoft.Json.xml
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Data\bin\Debug\log4net.xml
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Data\bin\Debug\NPOI.xml
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Data\obj\Debug\NFine.Data.csprojAssemblyReference.cache
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Data\obj\Debug\NFine.Data.csproj.CoreCompileInputs.cache
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Data\obj\Debug\NFine.Data.csproj.CopyComplete
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Data\obj\Debug\NFine.Data.dll
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Data\obj\Debug\NFine.Data.pdb
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Data\bin\Debug\NFine.Data.dll
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Data\bin\Debug\NFine.Data.pdb
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Data\bin\Debug\EntityFramework.dll
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Data\bin\Debug\NFine.Code.dll
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Data\bin\Debug\Newtonsoft.Json.dll
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Data\bin\Debug\log4net.dll
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Data\bin\Debug\NPOI.dll
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Data\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Data\bin\Debug\NFine.Code.pdb
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Data\bin\Debug\EntityFramework.xml
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Data\bin\Debug\Newtonsoft.Json.xml
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Data\bin\Debug\log4net.xml
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Data\bin\Debug\NPOI.xml
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Data\obj\Debug\NFine.Data.csprojAssemblyReference.cache
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Data\obj\Debug\NFine.Data.csproj.CoreCompileInputs.cache
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Data\obj\Debug\NFine.Data.csproj.CopyComplete
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Data\obj\Debug\NFine.Data.dll
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Data\obj\Debug\NFine.Data.pdb

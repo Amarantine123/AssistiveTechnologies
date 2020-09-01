@@ -1,0 +1,38 @@
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Code\bin\Debug\NFine.Code.dll
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Code\bin\Debug\NFine.Code.pdb
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Code\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Code\bin\Debug\log4net.dll
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Code\bin\Debug\Newtonsoft.Json.dll
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Code\bin\Debug\NPOI.dll
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Code\bin\Debug\NPOI.OOXML.dll
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Code\bin\Debug\NPOI.OpenXml4Net.dll
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Code\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Code\bin\Debug\log4net.xml
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Code\bin\Debug\Newtonsoft.Json.xml
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Code\bin\Debug\NPOI.xml
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Code\bin\Debug\NPOI.OOXML.xml
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Code\bin\Debug\NPOI.OpenXml4Net.xml
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Code\obj\Debug\NFine.Code.csproj.CoreCompileInputs.cache
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Code\obj\Debug\NFine.Code.csproj.CopyComplete
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Code\obj\Debug\NFine.Code.dll
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Code\obj\Debug\NFine.Code.pdb
+C:\WorkStations\Work\NFine快速开发框架 (1)\NFine快速开发框架\project\NFine.Code\obj\Debug\NFine.Code.csprojAssemblyReference.cache
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Code\bin\Debug\NFine.Code.dll
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Code\bin\Debug\NFine.Code.pdb
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Code\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Code\bin\Debug\log4net.dll
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Code\bin\Debug\Newtonsoft.Json.dll
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Code\bin\Debug\NPOI.dll
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Code\bin\Debug\NPOI.OOXML.dll
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Code\bin\Debug\NPOI.OpenXml4Net.dll
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Code\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Code\bin\Debug\log4net.xml
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Code\bin\Debug\Newtonsoft.Json.xml
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Code\bin\Debug\NPOI.xml
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Code\bin\Debug\NPOI.OOXML.xml
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Code\bin\Debug\NPOI.OpenXml4Net.xml
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Code\obj\Debug\NFine.Code.csproj.CoreCompileInputs.cache
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Code\obj\Debug\NFine.Code.csproj.CopyComplete
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Code\obj\Debug\NFine.Code.dll
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Code\obj\Debug\NFine.Code.pdb
+C:\WorkStations\002_reply\020_Projects\4000_OA\project\NFine.Code\obj\Debug\NFine.Code.csprojAssemblyReference.cache
